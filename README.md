@@ -22,6 +22,6 @@ Muitas pessoas são pegas desprevinidas pela falta de aviso ou até mesmo pela f
 <img src = "Images/TemperaturaEUmidade.gif" alt = "Gif demostração de manipulação de temperatura e umidade no Simulador" style ="width: 500px;"></img>
 <p>Clicando no sensor de Temperatura e Umidade é possível alterar os valores retornados que seriam mandados para o banco de dados.</p>
 
-## <a href = "https://wokwi.com/projects/432412556734678017">Link para o Simulador</a>
+## <a href = "https://wokwi.com/projects/432412556734678017">Simulador</a>
 
-## Link vídeo demonstrativo
+## <a href = "https://www.youtube.com/watch?v=FG0d37alZdI&ab_channel=NTK">Vídeo demonstrativo</a>
