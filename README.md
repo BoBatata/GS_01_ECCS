@@ -13,7 +13,7 @@ Tecnologia e prevenção são caminhos possíveis. O desafio é transformar aler
 <img src = "Images/SistemaArduino.png" alt = "Imagem do sistema arduino no simulador" style ="width: 500px;"></img>
 <p>Utilizando um sensor de temperatura e umidade para pegar informações de risco de chuvas fortes, um sensor de distância ou um sensor de níve de água para medir possíveis enchentes.</p>
 
-<p>Nesse mesmo sistema ativaria um alarme de som para avisar níveis de enchetes perigosas e mandaria tais informações para um banco de dados que alimentaria um site que avisaria ruas com risco ou já sendo afetadas por enchentes.</p>
+<p>Nesse mesmo sistema ativaria um alarme de som para avisar níveis de enchetes perigosas e mandaria tais informações para um banco de dados que alimentaria um site que avisaria ruas com risco ou já sendo afetadas por enchentes além do alarme sonoro que avisaria pessoas próximas sobre o perigo.</p>
 
 ## Guia para simular o projeto no Wokwi ou Tinkercad
 <img src = "Images/Distancia.gif" alt = "Gif demostração de manipulação de distância no Simulador" style ="width: 500px;"></img>
@@ -22,7 +22,6 @@ Tecnologia e prevenção são caminhos possíveis. O desafio é transformar aler
 <img src = "Images/TemperaturaEUmidade.gif" alt = "Gif demostração de manipulação de temperatura e umidade no Simulador" style ="width: 500px;"></img>
 <p>Clicando no sensor de Temperatura e Umidade é possível alterar os valores retornados que seriam mandados para o banco de dados.</p>
 
-## Link do Simulador
-<a href = "https://wokwi.com/projects/432412556734678017">Link para o Simulador</a>
+## <a href = "https://wokwi.com/projects/432412556734678017">Link para o Simulador</a>
 
 ## Link vídeo demonstrativo
