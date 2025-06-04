@@ -111,14 +111,20 @@ void BuzzerAlert(){
 }
 
 void DisplayHandler(){
-  //Display monstando as informações pegas pelo DHT, humidade e temperatura.
+  //Display monstando as informações pegas pelo DHT, humidade, temperatura e distancia.
+  lcd.setCursor(0,0);
+  lcd.print(t);
+  lcd.print(" -Celsius");
+
   lcd.setCursor(0,1);
   lcd.print("Humidade:");
   lcd.print(h);
 
-  lcd.setCursor(0,0);
-  lcd.print(t);
-  lcd.print(" -Celsius");
+  lcd.setCursor(0,2);
+  lcd.print("Profundidade:");
+  lcd.print(distance);
+  delay(1000);
+  lcd.clear();
 }
 
 
@@ -127,4 +133,3 @@ void DhtHandler(){
   h = dht.readHumidity();
   t = dht.readTemperature();
 }
-
